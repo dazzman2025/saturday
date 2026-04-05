@@ -1,1 +1,2 @@
-print('Hello World')print('We are one')
+ the mother
+love
